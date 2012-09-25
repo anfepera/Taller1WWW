@@ -1,0 +1,14 @@
+INSERT INTO suscriptores values('1','VAlle','cali','telmex','1234');
+INSERT INTO suscriptores values('2','cauca','cali','telmex','1234');
+INSERT INTO suscriptores values('3','nariño','cali','telmex','1234');
+INSERT INTO suscriptores values('4','huila','cali','telmex','1234');
+INSERT INTO suscriptores values('5','antioquia','cali','telmex','1234');
+INSERT INTO suscriptores values('6','norte de santander','cali','telmex','1234');
+INSERT INTO suscriptores values('7','choco','cali','telmex','1234');
+INSERT INTO suscriptores values('8','cordoba','cali','telmex','1234');
+INSERT INTO suscriptores values('9','atlantico','cali','telmex','1234');
+INSERT INTO suscriptores values('10','amazonas','leticia','telmex','1234');
+INSERT INTO suscriptores values('11','cundinamarca','bogota','telmex','1234');
+INSERT INTO suscriptores values('12','VAlle','cali','telmex','1234');
+INSERT INTO suscriptores values('13','VAlle','cali','telmex','1234');
+INSERT INTO suscriptores values('14','VAlle','cali','telmex','1234');
